@@ -1,0 +1,33 @@
+
+
+
+
+h1 {
+  color: black;
+  font-size: 35px;
+
+}
+
+h2 {
+  color: blue;
+  font-size: 18px;
+  font-family: sans-serif;
+  margin: 50px;
+
+}
+
+h3 {
+  color: black;
+  font-size: 14px;
+  font-family: sans-serif;
+  margin: 50px
+
+
+}
+
+h4 {
+  color: black;
+  font-size: 10px;
+  font-family: sans-serif;
+  margin: 80px;
+}
