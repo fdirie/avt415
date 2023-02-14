@@ -1,0 +1,33 @@
+
+h1{
+font-size: 60px;
+color: #BD4660;
+
+}
+
+h2{
+font-size: 25px;
+color: #BD4660;
+}
+
+h3{
+  font-size:18px;
+}
+
+h4{
+  font-size: 8px;
+    color: #702A39;
+}
+
+h5{
+  font-size: 12px;
+  color: #702A39;
+}
+body{
+  margin-left: 150px;
+  margin-right: 200px;
+  font-size: 20px;
+  margin-bottom: 100px;
+  background-color: #F3B6C3;
+
+}
